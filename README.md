@@ -11,3 +11,6 @@ Vypísanie textu do okna prehliadača. Port je 3000. Napríklad napíšte http:/
 
 ## 02-hello-world-express
 Vypísanie textu do okna prehliadača. Port je 3000. Napríklad napíšte http://127.0.0.1:3000/
+
+## 03-express-static
+Vypísanie textu do okna prehliadača. Port je 3000. Napríklad napíšte http://127.0.0.1:3000/static/abc.txt
