@@ -8,3 +8,6 @@ Vypísanie textu na konzolu.
 
 ## 01-hello-world-http
 Vypísanie textu do okna prehliadača. Port je 3000. Napríklad napíšte http://127.0.0.1:3000/
+
+## 02-hello-world-express
+Vypísanie textu do okna prehliadača. Port je 3000. Napríklad napíšte http://127.0.0.1:3000/
