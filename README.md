@@ -78,3 +78,12 @@ npm config hodnota 100
 npm start
 npm config delete hodnota
 ```
+
+## 08-serial-port
+Zoznam pripojených sériových portov.
+
+Inštalácia a spustenie.
+```
+npm install
+npm start
+```
