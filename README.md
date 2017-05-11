@@ -68,3 +68,13 @@ Inštalácia a spustenie.
 npm install
 node index.js
 ```
+
+## 07-npm-config
+Na konzolu vypíše obsah konfiguračnej premennej z npm. Toto je príklad na globálnu premennú, ktorá sa nastaví do vášho domovského adresára do súboru .npmrc.
+                         
+Inštalácia a spustenie.
+```
+npm config hodnota 100
+npm start
+npm config delete hodnota
+```
