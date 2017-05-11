@@ -22,38 +22,38 @@ node hello.js
 ```
 
 ## 02-hello-world-express
-Vypísanie textu do okna prehliadača. Port je 3000. Napríklad napíšte http://127.0.0.1:3000/
+Vypísanie textu do okna prehliadača. Port je 3000. Napríklad napíšte adresu http://127.0.0.1:3000/ do svojho prehliadača.
 
 Inštalácia a spustenie.
 ```
-npm init
+npm install
 node index.js
 ```
 
 ## 03-express-static
-Vypísanie textu do okna prehliadača. Port je 3000. Napríklad napíšte http://127.0.0.1:3000/static/abc.txt
+Vypísanie textu do okna prehliadača. Port je 3000. Napríklad napíšte adresu http://127.0.0.1:3000/static/abc.txt do svojho prehliadača.
 
 Inštalácia a spustenie.
 ```
-npm init
+npm install
 node static.js
 ```
 
 ## 04-express-base
-HTTP server, ktorý vracia odpoveď v podobe HTML stránok. Napríklad napíšte http://127.0.0.1:3000/
+HTTP server, ktorý vracia odpoveď v podobe HTML stránok. Port je 3000. Napríklad napíšte adresu http://127.0.0.1:3000/ do svojho prehliadača.
 
 Inštalácia a spustenie.
 ```
-npm init
+npm install
 npm start
 ```
 
 ## 05-express-json
-HTTP server, ktorý vracia odpoveď v podobe JSON. Napríklad napíšte http://127.0.0.1:3000/
+HTTP server, ktorý vracia odpoveď v podobe JSON. Port je 3000. Napríklad napíšte adresu http://127.0.0.1:3000/ do svojho prehliadača.
 
 Inštalácia a spustenie.
 ```
-npm init
+npm install
 npm start
 ```
 
@@ -65,6 +65,6 @@ Interaktívna konzola, ktorá reaguje na pár príkazov. Príkazy musíte napís
 
 Inštalácia a spustenie.
 ```
-npm init
+npm install
 node index.js
 ```
